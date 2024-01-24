@@ -1,0 +1,55 @@
+body {
+    margin: auto;
+    text-align: center;
+    font-family: 'Share Tech Mono', monospace;
+    max-width: 500px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background: #171570;
+    border-radius: 10px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+
+}
+
+#home-score {
+    font-size: 90px;
+    margin: 10px;
+    background: black;
+    color: red;
+    text-align: center;
+    width: 120px;
+}
+
+#guest-score {
+    font-size: 90px;
+    margin: 10px;
+    background: black;
+    color: red;
+    text-align: center;
+    width: 120px;
+}
+
+button {
+    background: none;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    font-size: 20px
+}
+
+h3 {
+    color: white;
+    font-size: 40px;
+    margin: auto;
+    
+}
+
+#reset-btn {
+    position: relative;
+    top: 200px;
+    
+}
