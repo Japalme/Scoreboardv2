@@ -16,7 +16,7 @@ body {
 }
 
 #home-score {
-    font-size: 90px;
+    font-size: 100px;
     margin: 10px;
     background: black;
     color: red;
@@ -25,7 +25,7 @@ body {
 }
 
 #guest-score {
-    font-size: 90px;
+    font-size: 100px;
     margin: 10px;
     background: black;
     color: red;
